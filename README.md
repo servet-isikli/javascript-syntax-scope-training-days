@@ -1,0 +1,2 @@
+- JavaScript Syntax: Scope - Training Days - codecademy.com
+- JavaScript training
